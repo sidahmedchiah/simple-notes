@@ -52,3 +52,7 @@ Example response:
   "text": "my first note"
 }
 ```
+{
+  "text": "Learn DevOps",
+  "title": "My first title"
+}
