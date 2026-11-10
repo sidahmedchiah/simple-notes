@@ -1,5 +1,5 @@
 
-# SimpleNotes API
+# SimpleNotes API — Feature Version
 
 A simple REST API built with Node.js and Express.
 
