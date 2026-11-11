@@ -1,5 +1,5 @@
 
-# SimpleNotes API
+# SimpleNotes API — v1.0 (with titles)
 
 A simple REST API built with Node.js and Express.
 
@@ -52,3 +52,7 @@ Example response:
   "text": "my first note"
 }
 ```
+{
+  "text": "Learn DevOps",
+  "title": "My first title"
+}
